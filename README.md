@@ -95,7 +95,7 @@ python app.py
 
 ---
 
-## 📸 Demo (Screenshot placeholder)
+## 📸 Demo
 > 
 
 ![Demo Screenshot](https://github.com/user-attachments/assets/bfd42d22-aa94-480d-9dbe-6bcec55fa01b)
@@ -103,8 +103,7 @@ python app.py
 ---
 
 ## 🧩 Future Improvements
-- Add **Grad‑CAM heatmaps** for explainability
-- Deploy model via **ONNX / TFLite** for faster inference
+- Deploy model via **Render / Netlify** for faster inference
 - Add user authentication for clinical use
 - CI/CD with GitHub Actions
 
